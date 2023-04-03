@@ -74,6 +74,9 @@ WritePivotClusters.java
 * one attribute generated per clustering 
 * Sample data set: fb_government
 
+generate_correlated_r.R
+* R code for generating correlated binary data
+
 Plots
 -----
 
